@@ -1,2 +1,4 @@
-# CDT-HDS-ML-Clinical-Time-Series
-ML for Clinical Time Series Module (CDT Health Data Science Oxford)
+# CDT-HDS-ML-Time-Series 26-27
+ML for Time Series Module 
+EPSRC CDT in Healthcare Data Science
+University of Oxford
