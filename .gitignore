@@ -1,0 +1,22 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+~$*
+*.swp
+.idea/
+.vscode/
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets
+.env
+*.key
+
+# Data: never commit patient or credentialed data (for example MIMIC).
+# Notebooks should download data from its official source at run time.
+data/
