@@ -22,9 +22,8 @@ the end for anyone who finishes early.
 
 ## Before the session
 
-1. **Register on PhysioNet.** The data is derived from MIMIC-IV and MIMIC-IV-ECG,
-   which needs PhysioNet credentialed access and a signed data use agreement for
-   MIMIC-IV. Xiao Gu will ask you to register on Monday 2 November.
+1. **Data access.** The data is derived from MIMIC-IV and MIMIC-IV-ECG. You need
+   PhysioNet credentialed access and a signed data use agreement for MIMIC-IV.
 2. **Download `cdt_fusion_lab_data.zip` from Canvas** (63 MB).
 3. **Put the zip in Google Drive** at `MyDrive/cdt_fusion_lab/cdt_fusion_lab_data.zip`.
    Create the `cdt_fusion_lab` folder at the top level of My Drive, and leave the
