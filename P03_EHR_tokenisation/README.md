@@ -4,7 +4,7 @@ Tuesday 3 November, 14:45 to 16:00. Practical lead: Pati Palo.
 
 [Open in Colab](https://colab.research.google.com/github/guxiao0822/CDT-HDS-ML-Time-Series/blob/main/P03_EHR_tokenisation/EHR_Tokenization_Lab.ipynb)
 
-This practical builds on the earlier EHR preprocessing tutorial. We will explore how clinical measurements can be represented as tokens and used by a Transformer to predict patient mortality. You will compare three tokenization strategies: Triplet, EIC, and Text Code, and experiment how different representations affect model performance.
+This practical builds on the earlier EHR preprocessing Lab. We will explore how clinical measurements can be represented as tokens and used by a Transformer to predict patient mortality. You will compare three tokenization strategies: Triplet, EIC, and Text Code, and experiment how different representations affect model performance.
 
 | **Part** | **Content** |
 |---|---|
