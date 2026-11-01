@@ -6,7 +6,7 @@ Monday 2 November, 13:00 to 16:00. Practical lead: Junjie Chen.
 
 This practical follows Monday's lecture on biomedical signal processing. It goes
 through basic signal processing algorithms, using the ECG as an example. You will
-derive heart rate and heart rate variability from the R peaks found by an
+derive heart rate and heart rate variability from the R peaks derived by an
 established toolbox (NeuroKit2), build your own beat detector step by step and
 compare it with NeuroKit2, then use ECG features to train a classifier that
 distinguishes four rhythm classes (normal rhythm, atrial fibrillation, other
@@ -22,8 +22,7 @@ rhythms and noisy recordings).
 The notebook and the lab note are in Junjie's repository,
 [CDT-HDS-ECG-Lab-1](https://github.com/junjiechen-chris/CDT-HDS-ECG-Lab-1/tree/main-v2). Read the
 [lab note](https://github.com/junjiechen-chris/CDT-HDS-ECG-Lab-1/blob/main-v2/CDT_Healthcare_Data_Science_ML_for_Time_Series_Module.pdf)
-alongside the notebook: it explains each section and gives the specification of
-every task.
+alongside the notebook. 
 
 ## Before the session
 
