@@ -4,20 +4,14 @@ Thursday 5 November, 13:00 to 16:00. Practical lead: Junjie Chen.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/junjiechen-chris/CDT-ECG-Lab2/blob/main/lab2-end-to-end.ipynb)
 
-This practical follows Thursday's lecture on foundation models for time series. It
-takes the four-class rhythm problem of Practical 01 and classifies the ECG without
-hand-crafted features: first with a ResNet trained end to end on the raw signal,
-then with a pretrained foundation model (ECGFounder) as a feature extractor. The
-three systems, the Practical 01 random forest included, are compared on three
-tasks with hidden test sets, and the practical ends with a leaderboard challenge:
-beat the nine baseline scores.
+This practical follows Thursday's lecture on foundation models for time series.
 
 | Part | Content |
 |---|---|
-| 1 | Preparing the three tasks: atrial fibrillation, sex and sleep apnea; validation splits and hidden test sets; the random forest of Practical 01 on all three |
-| 2 | End-to-end classification: a ResNet on the raw ECG, one pipeline for the three tasks |
-| 3 | Foundation model classification: ECGFounder embeddings and a linear classifier |
-| 4 | Beating the baselines: submit your best predictions to the leaderboard |
+| 1 | Preparing the data for three tasks |
+| 2 | End-to-end classification: a ResNet on the raw ECG |
+| 3 | Foundation model classification: ECGFounder |
+| 4 | Beating the baselines |
 
 The notebook, the code and the lab note are in Junjie's repository,
 [CDT-ECG-Lab2](https://github.com/junjiechen-chris/CDT-ECG-Lab2), included here as the
