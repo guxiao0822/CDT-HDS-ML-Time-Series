@@ -4,7 +4,8 @@ Thursday 5 November, 13:00 to 16:00. Practical lead: Junjie Chen.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/junjiechen-chris/CDT-ECG-Lab2/blob/main/lab2-end-to-end.ipynb)
 
-This practical follows Thursday's lecture on foundation models for time series.
+This practical follows Thursday's lecture on foundation models for time series. It
+consists of four parts:
 
 | Part | Content |
 |---|---|
