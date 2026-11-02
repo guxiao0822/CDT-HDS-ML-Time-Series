@@ -37,7 +37,7 @@ in to [Google Colab](https://colab.research.google.com) with a Google account.
 4. Run the cells in order and complete the four functions marked as tasks. Each
    is checked against a reference. If you have not finished a task, the notebook
    uses the reference instead, so the rest of the cells still run.
-5. Submit the zip the notebook writes at the end to the leaderboard.
+5. Submit the notebook and the zip that the notebook writes at the end.
 
 ## Credits
 
